@@ -14,7 +14,7 @@ Có dạng: http://abc.def:8123 (Có thể không có 8123) hoặc không với 
 
 ### STEP3.  Chỉnh sửa lại Config
 
-3.1. Nhập giá trị tại 1.1 hoặc 1.2 vào file create_config.py
+3.1. Tìm đoạn code bên dưới và giá trị tại 1.1 hoặc 1.2 vào file create_skill.py
 
 ```sh
 data['smh_skill'].append({
